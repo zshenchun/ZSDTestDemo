@@ -1,0 +1,6 @@
+framework module XZshenChunDemo {
+  umbrella header "XZshenChunDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
